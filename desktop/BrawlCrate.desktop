@@ -1,0 +1,11 @@
+[Desktop Entry]
+Terminal=false
+Type=Application
+Name=BrawlCrate
+Comment=General editing tool for Super Smash Bros. Brawl
+Path=~/your/path/here
+Exec=WINEPREFIX=~/.wine-brawl wine BrawlCrate.exe %f
+Icon=brawlcrate-canary
+StartupWMClass=brawlcrate.exe
+Categories=Tools;
+StartupNotify=true
