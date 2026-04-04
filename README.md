@@ -48,6 +48,9 @@ By default, Wine does not ship the necessary libraries to allow Linux Discord cl
 # Final comments
 If this guide is updated, you should be able to simply follow the updated steps again, replacing all file overwrite prompts and such. If you wish to start over, delete `~/.wine-brawl` and follow the guide from the very beginning.
 
+## Any questions?
+I'd like to help make a place where talking about Brawl modding on Linux feels more at home! Use my [Discussion Tab](https://github.com/Roadhog360/BrawlToolsSetupLinux/discussions) if you have any questions, or suggestions about this guide, or generally for any discussion relating to Brawl modding with Wine. Read the pinned announcement for more info on what I consider "on-topic".
+
 ## Credits
 - High-resolution PSA Compressor icon remake by Roadhog360
   - Distribution of that icon is allowed without credit, and if the PSA Compressor author sees this, they are free to include it as part of PSA Compressor itself.
