@@ -11,7 +11,7 @@ Of course, you'll need [Wine](https://gitlab.winehq.org/wine/wine/-/wikis/Downlo
 
 # BrawlCrate setup
 ## Creating a new Wineprefix and installing .NET 4.8
-Run `WINEPREFIX=~/.wine-brawl winetricks --unattended dotnet48` in your terminal to create a new Wine prefix and install .NET 4.8. This also removes Mono, it will take a few minutes.
+Run `WINEPREFIX=~/.wine-brawl winetricks --unattended dotnet48` in your terminal to create a new Wine prefix and install .NET 4.8. This also removes Mono, it will take a few minutes. For whatever reason, this changes Wine's Windows version to Windows 7. As BrawlCrate disables plugins if the Windows version is at or below 7, you'll need to change it back to Windows 10 or above. You can do that using `WINEPREFIX=~/.wine-brawl winetricks win10`.
 
 <sub>I've chosen to create a new Wineprefix since there's a chance doing this may interfere with other .NET or Mono applications on the same prefix. You can remove the `WINEPREFIX=~/.wine-brawl` part if you want to do this to your standard `.wine` directory, I chose to keep it separate to avoid potential configuration poisoning. We use .NET instead of Mono, because at the moment, Mono is not usable for BrawlCrate because [a bug](https://github.com/wine-mono/wine-mono/issues/221) causes Mono to ignore Wine's theming settings and BrawlCrate's winforms end up being unreadable. If Mono fixes this issue, I will update this guide accordingly. I hope they do fix it as this will drastically simplify the process.</sub>
 
