@@ -341,14 +341,4 @@
     <generic-icon name="brawl-file"/>
     <glob pattern="*.itov"/>
   </mime-type>
-  <mime-type type="application/brawl-bin">
-    <comment>ITOV file</comment>
-    <generic-icon name="brawl-file"/>
-    <glob pattern="*.bin" priority="0"/>
-  </mime-type>
-  <mime-type type="application/brawl-dat">
-    <comment>ITOV file</comment>
-    <generic-icon name="brawl-file"/>
-    <glob pattern="*.dat" priority="0"/>
-  </mime-type>
 </mime-info>
