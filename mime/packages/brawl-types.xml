@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/brawl-pac">
+    <comment>PAC file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.pac" priority="0"/>
+  </mime-type>
+  <mime-type type="application/brawl-pcs">
+    <comment>PCS file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.pcs"/>
+  </mime-type>
+  <mime-type type="application/brawl-arc">
+    <comment>ARC file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.arc"/>
+  </mime-type>
+  <mime-type type="application/brawl-carc">
+    <comment>CARC file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.carc"/>
+  </mime-type>
+  <mime-type type="application/brawl-mrg">
+    <comment>MRG file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.mrg"/>
+  </mime-type>
+  <mime-type type="application/brawl-mrgc">
+    <comment>MRGC file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.mrgc"/>
+  </mime-type>
+  <mime-type type="application/brawl-szs">
+    <comment>SZS file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.szs"/>
+  </mime-type>
+  <mime-type type="application/brawl-brres">
+    <comment>BRRES file</comment>
+    <generic-icon name="brawl-file"/>
+    <generic-icon name="brawlcrate"/>
+    <glob pattern="*.brres"/>
+  </mime-type>
+  <mime-type type="application/brawl-branm">
+    <comment>BRANM file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.branm"/>
+  </mime-type>
+  <mime-type type="application/brawl-brmdl">
+    <comment>BRMDL file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brmdl"/>
+  </mime-type>
+  <mime-type type="application/brawl-brtex">
+    <comment>BRTEX file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brtex"/>
+  </mime-type>
+  <mime-type type="application/brawl-brplt">
+    <comment>BRPLT file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brplt"/>
+  </mime-type>
+  <mime-type type="application/brawl-brcha">
+    <comment>BRCHA file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brcha"/>
+  </mime-type>
+  <mime-type type="application/brawl-brtsa">
+    <comment>BRTSA file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brtsa"/>
+  </mime-type>
+  <mime-type type="application/brawl-brsha">
+    <comment>BRSHA file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brsha"/>
+  </mime-type>
+  <mime-type type="application/brawl-brvia">
+    <comment>BRVIA file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brvia"/>
+  </mime-type>
+  <mime-type type="application/brawl-brtpa">
+    <comment>BRTPA file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brtpa"/>
+  </mime-type>
+  <mime-type type="application/brawl-brcla">
+    <comment>BRCLA file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brcla"/>
+  </mime-type>
+  <mime-type type="application/brawl-brsca">
+    <comment>BRSCA file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brsca"/>
+  </mime-type>
+  <mime-type type="application/brawl-mdl0">
+    <comment>MDL0 file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.mdl0"/>
+  </mime-type>
+  <mime-type type="application/brawl-tex0">
+    <comment>TEX0 file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.tex0"/>
+  </mime-type>
+  <mime-type type="application/brawl-plt0">
+    <comment>PLT0 file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.plt0"/>
+  </mime-type>
+  <mime-type type="application/brawl-chr0">
+    <comment>CHR0 file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.chr0"/>
+  </mime-type>
+  <mime-type type="application/brawl-srt0">
+    <comment>SRT0 file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.srt0"/>
+  </mime-type>
+  <mime-type type="application/brawl-shp0">
+    <comment>SHP0 file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.shp0"/>
+  </mime-type>
+  <mime-type type="application/brawl-vis0">
+    <comment>VIS0 file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.vis0"/>
+  </mime-type>
+  <mime-type type="application/brawl-pat0">
+    <comment>PAT0 file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.pat0"/>
+  </mime-type>
+  <mime-type type="application/brawl-clr0">
+    <comment>CLR0 file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.clr0"/>
+  </mime-type>
+  <mime-type type="application/brawl-scn0">
+    <comment>SCN0 file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.scn0"/>
+  </mime-type>
+  <mime-type type="application/brawl-brstm">
+    <comment>BRSTM file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brstm"/>
+  </mime-type>
+  <mime-type type="application/brawl-bcstm">
+    <comment>BCSTM file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.bcstm"/>
+  </mime-type>
+  <mime-type type="application/brawl-bfstm">
+    <comment>BFSTM file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.bfstm"/>
+  </mime-type>
+  <mime-type type="application/brawl-brsar">
+    <comment>BRSAR file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brsar"/>
+  </mime-type>
+  <mime-type type="application/brawl-brwsd">
+    <comment>BRWSD file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brwsd"/>
+  </mime-type>
+  <mime-type type="application/brawl-brbnk">
+    <comment>BRBNK file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brbnk"/>
+  </mime-type>
+  <mime-type type="application/brawl-brseq">
+    <comment>BRSEQ file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.brseq"/>
+  </mime-type>
+  <mime-type type="application/brawl-efls">
+    <comment>EFLS file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.efls"/>
+  </mime-type>
+  <mime-type type="application/brawl-breff">
+    <comment>BREFF file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.breff"/>
+  </mime-type>
+  <mime-type type="application/brawl-breft">
+    <comment>BREFT file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.breft"/>
+  </mime-type>
+  <mime-type type="application/brawl-dol">
+    <comment>DOL file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.dol"/>
+  </mime-type>
+  <mime-type type="application/brawl-rel">
+    <comment>REL file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.rel"/>
+  </mime-type>
+  <mime-type type="application/brawl-tpl">
+    <comment>TPL file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.tpl"/>
+  </mime-type>
+  <mime-type type="application/brawl-thp">
+    <comment>THP file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.thp"/>
+  </mime-type>
+  <mime-type type="application/brawl-msbin">
+    <comment>MSBIN file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.msbin"/>
+  </mime-type>
+  <mime-type type="application/brawl-coll">
+    <comment>COLL file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.coll"/>
+  </mime-type>
+  <mime-type type="application/brawl-stpm">
+    <comment>STPM file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.stpm"/>
+  </mime-type>
+  <mime-type type="application/brawl-stdt">
+    <comment>STDT file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.stdt"/>
+  </mime-type>
+  <mime-type type="application/brawl-scla">
+    <comment>SCLA file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.scla"/>
+  </mime-type>
+  <mime-type type="application/brawl-tbcl">
+    <comment>TBCL file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.tbcl"/>
+  </mime-type>
+  <mime-type type="application/brawl-tbgc">
+    <comment>TBGC file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.tbgc"/>
+  </mime-type>
+  <mime-type type="application/brawl-tbgd">
+    <comment>TBGD file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.tbgd"/>
+  </mime-type>
+  <mime-type type="application/brawl-tbgm">
+    <comment>TBGM file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.tbgm"/>
+  </mime-type>
+  <mime-type type="application/brawl-tblv">
+    <comment>TBLV file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.tblv"/>
+  </mime-type>
+  <mime-type type="application/brawl-tbrm">
+    <comment>TBRM file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.tbrm"/>
+  </mime-type>
+  <mime-type type="application/brawl-tbst">
+    <comment>TBST file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.tbst"/>
+  </mime-type>
+  <mime-type type="application/brawl-adsj">
+    <comment>ADSJ file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.adsj"/>
+  </mime-type>
+  <mime-type type="application/brawl-bloc">
+    <comment>BLOC file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.bloc"/>
+  </mime-type>
+  <mime-type type="application/brawl-geg1">
+    <comment>GEG1 file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.geg1"/>
+  </mime-type>
+  <mime-type type="application/brawl-gct">
+    <comment>GCT file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.gct"/>
+  </mime-type>
+  <mime-type type="application/brawl-masq">
+    <comment>MASQ file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.masq"/>
+  </mime-type>
+  <mime-type type="application/brawl-bx">
+    <comment>BX file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.bx"/>
+  </mime-type>
+  <mime-type type="application/brawl-cmm">
+    <comment>CMM file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.cmm"/>
+  </mime-type>
+  <mime-type type="application/brawl-asl">
+    <comment>ASL file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.asl"/>
+  </mime-type>
+  <mime-type type="application/brawl-param">
+    <comment>PARAM file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.param"/>
+  </mime-type>
+  <mime-type type="application/brawl-tlst">
+    <comment>TLST file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.tlst"/>
+  </mime-type>
+  <mime-type type="application/brawl-selb">
+    <comment>SELB file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.selb"/>
+  </mime-type>
+  <mime-type type="application/brawl-selc">
+    <comment>SELC file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.selc"/>
+  </mime-type>
+  <mime-type type="application/brawl-itov">
+    <comment>ITOV file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.itov"/>
+  </mime-type>
+  <mime-type type="application/brawl-bin">
+    <comment>ITOV file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.bin" priority="0"/>
+  </mime-type>
+  <mime-type type="application/brawl-dat">
+    <comment>ITOV file</comment>
+    <generic-icon name="brawl-file"/>
+    <glob pattern="*.dat" priority="0"/>
+  </mime-type>
+</mime-info>

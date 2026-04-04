@@ -9,3 +9,6 @@ Icon=psacompressor
 StartupWMClass=psacompressor.exe
 Categories=Tools;
 StartupNotify=true
+MimeType=application/brawl-pac;
+Keywords=psac;psacompressor;projectsmashattacks;opensa;
+InitialPreference=0
